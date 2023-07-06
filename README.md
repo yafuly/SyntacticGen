@@ -1,11 +1,11 @@
 <div align="center">
 <p align="center">
-  <img src="./assets/intro.jpeg" width="75%" height="75%" />
+  <img src="./assets/intro.jpeg" width="50%" height="50%" />
 </p>
 </div>
 
 <div align="center">
-<h1>Explicit Syntactic </h1>
+<h1>Explicit Syntactic Guidance for Neural Text Generation</h1>
 </div>
 
 <div align="center">
