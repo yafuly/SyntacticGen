@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img src="./assets/intro.jpeg" width="50%" height="50%" />
+  <img src="./assets/intro.jpg" width="50%" height="50%" />
 </p>
 </div>
 
