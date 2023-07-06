@@ -35,3 +35,9 @@ _<sup>†</sup> Zhejiang University,
 
 A syntax-guided generation schema that generates the sequence guided by a constituency parse tree in a top-down direction.
 </div>
+
+
+## Enviroment Setup
+```
+bash setup_env.sh
+```
