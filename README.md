@@ -37,7 +37,11 @@ A syntax-guided generation schema that generates the sequence guided by a consti
 </div>
 
 
-## Enviroment Setup
+## Environment Setup
+To set up the environment, clone the project and run the following script:
+
 ```
-bash setup_env.sh
+
+bash setup_env.sh # run under SyntacticGen directory
+
 ```
