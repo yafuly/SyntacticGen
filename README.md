@@ -45,6 +45,11 @@ To set up the environment, clone the project and run the following script:
 bash setup_env.sh # run under SyntacticGen directory
 ```
 
+## Training
+
+
+## Inference
+
 ## Citation
 ```bibtex
 @misc{li2023explicit,
