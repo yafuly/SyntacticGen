@@ -33,7 +33,7 @@ _<sup>†</sup> Zhejiang University,
 <sup>¶</sup> Tencent AI Lab_
 
 
-A syntax-guided generation schema that generates the sequence guided by a constituency parse tree in a top-down direction ([paper link]([https://arxiv.org/abs/2305.13242](https://arxiv.org/abs/2306.11485))).
+A syntax-guided generation schema that generates the sequence guided by a constituency parse tree in a top-down direction [paper link]([https://arxiv.org/abs/2305.13242](https://arxiv.org/abs/2306.11485)).
 </div>
 
 
