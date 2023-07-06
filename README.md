@@ -40,8 +40,6 @@ A syntax-guided generation schema that generates the sequence guided by a consti
 ## Environment Setup
 To set up the environment, clone the project and run the following script:
 
-```
-
+```bash
 bash setup_env.sh # run under SyntacticGen directory
-
 ```
