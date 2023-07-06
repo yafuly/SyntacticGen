@@ -33,8 +33,9 @@ _<sup>†</sup> Zhejiang University,
 <sup>¶</sup> Tencent AI Lab_
 
 
-A syntax-guided generation schema that generates the sequence guided by a constituency parse tree in a top-down direction.
+A syntax-guided generation schema that generates the sequence guided by a constituency parse tree in a top-down direction (paper link)[https://arxiv.org/abs/2306.11485].
 </div>
+
 
 
 ## Environment Setup
@@ -43,3 +44,6 @@ To set up the environment, clone the project and run the following script:
 ```bash
 bash setup_env.sh # run under SyntacticGen directory
 ```
+
+## Citation
+
