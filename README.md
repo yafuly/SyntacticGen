@@ -33,5 +33,5 @@ _<sup>†</sup> Zhejiang University,
 <sup>¶</sup> Tencent AI Lab_
 
 
-Presenting a comprehensive benchmark dataset designed to assess the proficiency of deepfake detectors amidst real-world scenarios.
+A syntax-guided generation schema that generates the sequence guided by a constituency parse tree in a top-down direction.
 </div>
