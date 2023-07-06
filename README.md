@@ -52,7 +52,7 @@ bash setup_env.sh # run under SyntacticGen directory
       author={Yafu Li and Leyang Cui and Jianhao Yan and Yongjing Yin and Wei Bi and Shuming Shi and Yue Zhang},
       year={2023},
       eprint={2306.11485},
-```
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
+```
