@@ -69,6 +69,15 @@ bash $PROJECT_PATH/shell/infer.sh
 
 We provide the model for paraphrase generation in our paper at Google Drive.
 
+## Arguments
+### Training
+|Argument	|Description	|
+|---------------	|------------------------------------------------	|
+| --n-sample 	| Number of samples in the search space      	|
+
+### Inference
+
+
 ## Citation
 ```bibtex
 @misc{li2023explicit,
