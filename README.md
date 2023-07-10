@@ -73,10 +73,19 @@ We provide the model for paraphrase generation in our paper at Google Drive.
 ### Training
 |Argument	|Description	|
 |---------------	|------------------------------------------------	|
-| --n-sample 	| Number of samples in the search space      	|
+| --arch 	| model architecture, use ''at_tree_attn_nonshare'' by default   	|
+| --task 	| training procedure is simply a seq2seq task, i.e., ''translation''   	|
+| --encoder-layers 	| Number of layers for the source text encoder   	|
+| --decoder-layers 	| Number of layers for the target text decoder   	|
+| --ctx-encoder-layers 	| Number of layers for the syntax context encoder   	|
+
 
 ### Inference
-
+|Argument	|Description	|
+|---------------	|------------------------------------------------	|
+| --beam 	| Beam size for structural beam search      	|
+| --prev-score-ratio 	| Accumulation weight _alpha_ in the paper, which indicates the weight on previous decisions when re-ranking the newly updated beam candidates	|
+| --cur-score-ratio 	| Weight on current-level decisions, usually 1-_alpha_	|
 
 ## Citation
 ```bibtex
