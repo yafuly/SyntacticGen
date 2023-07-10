@@ -46,15 +46,28 @@ bash setup_env.sh # run under SyntacticGen directory
 ```
 
 ## Toy Example
-We prepare a toy example which goes through data preparation, model training and model inference. Please make sure to specify the "PROJECT_PATH" in each script according to your actual project path.
+To demonstrate the process, we have prepared a toy example that includes data preparation, model training, and model inference. Please ensure to specify the "PROJECT_PATH" in each script according to your actual project path.
 ```bash
-# data preparation: build training triplets given the source text data, the target text data and the parsing results.
+
+# Set the PROJECT_PATH variable to your directory
+
+PROJECT_PATH=$YOUR_DIRECTORY
+
+# Data Preparation: This script builds training triplets using source text data, target text data, and parsing results.
+
 bash $PROJECT_PATH/shell/prepare_data.sh
-# model training: train the neural decoder on the training triplets.
+
+# Model Training: Train the neural decoder on the training triplets.
+
 bash $PROJECT_PATH/shell/train.sh
-# model inference: conduct inference using the trained model, with structural beam search enabled if beam size is larger than 1.
+
+# Model Inference: Use the trained model for inference. Structural beam search is enabled if beam size is larger than 1.
+
 bash $PROJECT_PATH/shell/infer.sh
+
 ```
+
+We provide the model for paraphrase generation in our paper at Google Drive.
 
 ## Citation
 ```bibtex
