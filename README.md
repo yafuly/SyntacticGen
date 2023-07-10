@@ -45,10 +45,8 @@ To set up the environment, clone the project and run the following script:
 bash setup_env.sh # run under SyntacticGen directory
 ```
 
-## Training
-
-
-## Inference
+## Toy Example
+We prepare a toy example which goes through data preparation, model training and model inference.
 
 ## Citation
 ```bibtex
