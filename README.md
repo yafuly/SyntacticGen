@@ -84,8 +84,8 @@ We provide the model for paraphrase generation in our paper at Google Drive.
 |Argument	|Description	|
 |---------------	|------------------------------------------------	|
 | --beam 	| Beam size for structural beam search      	|
-|--prev-score-ratio |	Weight on previous decisions when re-ranking newly updated beam candidates (_alpha_)|
-|--cur-score-ratio  |	Weight on current-level decisions (usually _1-alpha_)|
+|--prev-score-ratio |	Weight on previous decisions when re-ranking newly updated beam candidates (_α_)|
+|--cur-score-ratio  |	Weight on current-level decisions (usually _1-α_)|
 
 ## Citation
 ```bibtex
