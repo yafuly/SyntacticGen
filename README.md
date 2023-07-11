@@ -67,7 +67,7 @@ bash $PROJECT_PATH/shell/infer.sh
 
 ```
 
-We provide the model for paraphrase generation in our paper at Google Drive.
+We provide the model for paraphrase generation in our paper at [Google Drive](https://drive.google.com/drive/folders/18X4X7HT6S-UX8cdp5K3vr9ofWjdLgRw5?usp=sharing).
 
 ## Arguments
 ### Training
